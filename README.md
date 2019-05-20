@@ -1,4 +1,4 @@
-## RUSI Installment System
+## SATA ATTENDANCE WEB APPLICATION
 
 ###Features: 
 - Tracks, Strand, Levels and Section Management
