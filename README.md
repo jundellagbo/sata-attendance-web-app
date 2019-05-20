@@ -1,6 +1,6 @@
 ## SATA ATTENDANCE WEB APPLICATION
 
-###Features: 
+### Features: 
 - Tracks, Strand, Levels and Section Management
 - Check Attendance
 - School Updates
